@@ -1,0 +1,11 @@
+{
+  "clean_build": true,
+  "pages": 23,
+  "pdf_sha256": "2bcc59b8a9d7e93dd5327d2654dc5ba850c0a46977550bb815427e1f2a7b811e",
+  "mdpi_cls_sha256": "36d0ae0fe93576bcaa4efc21718488558a4a1329696d6a1fe6083082144e6ad2",
+  "undefined_citations": 0,
+  "undefined_references": 0,
+  "overfull_boxes": 0,
+  "fatal_errors": 0,
+  "headheight_warnings": 0
+}

@@ -1,0 +1,19 @@
+{
+  "boundary_fluxes": "pass",
+  "r_derivative_max_absolute_error": 1.7053025658242404e-13,
+  "equilibrium_residual": 3.7192471324942744e-15,
+  "finite_difference_jacobian_error": 1.748534650403144e-11,
+  "branch_derivative_error": 2.8105739957595688e-11,
+  "riccati_solution_max_error": 2.7755575615628914e-16,
+  "RG_closed_form_max_error": 1.2173139850140905e-11,
+  "cubic_from_nonlinear_integration": [
+    1.815471495156461,
+    -5.610459214913155
+  ],
+  "all_nominal_state_bounds_and_table_metrics": "pass",
+  "observed_convergence_orders": [
+    0.998527997402437,
+    2.003919342969752
+  ],
+  "paired_decision_comparisons": "pass"
+}
